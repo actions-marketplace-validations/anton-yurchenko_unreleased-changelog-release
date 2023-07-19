@@ -6,7 +6,7 @@ import (
 	"os/exec"
 )
 
-const Version string = "0.0.0"
+const Version string = "0.1.0"
 
 func init() {
 	vars := []string{
