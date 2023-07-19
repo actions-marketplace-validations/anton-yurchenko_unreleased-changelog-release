@@ -3,7 +3,6 @@
 [![Release](https://img.shields.io/github/v/release/anton-yurchenko/unreleased-changelog-release)](https://github.com/anton-yurchenko/unreleased-changelog-release/releases/latest)
 [![Code Coverage](https://codecov.io/gh/anton-yurchenko/unreleased-changelog-release/branch/main/graph/badge.svg)](https://codecov.io/gh/anton-yurchenko/unreleased-changelog-release)
 [![Go Report Card](https://goreportcard.com/badge/github.com/anton-yurchenko/unreleased-changelog-release)](https://goreportcard.com/report/github.com/anton-yurchenko/unreleased-changelog-release)
-[![CodeQL](https://github.com/anton-yurchenko/unreleased-changelog-release/workflows/CodeQL/badge.svg)](https://github.com/anton-yurchenko/unreleased-changelog-release/actions?query=workflow%3ACodeQL)
 [![Release](https://github.com/anton-yurchenko/unreleased-changelog-release/actions/workflows/release.yml/badge.svg)](https://github.com/anton-yurchenko/unreleased-changelog-release/actions/workflows/release.yml)
 [![Docker Pulls](https://img.shields.io/docker/pulls/antonyurchenko/unreleased-changelog-release)](https://hub.docker.com/r/antonyurchenko/unreleased-changelog-release)
 [![License](https://img.shields.io/github/license/anton-yurchenko/unreleased-changelog-release)](LICENSE.md)
