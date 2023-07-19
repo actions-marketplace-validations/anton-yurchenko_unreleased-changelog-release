@@ -1,4 +1,4 @@
-# unreleased-unreleased-changelog-release
+# unreleased-changelog-release
 
 [![Release](https://img.shields.io/github/v/release/anton-yurchenko/unreleased-changelog-release)](https://github.com/anton-yurchenko/unreleased-changelog-release/releases/latest)
 [![Code Coverage](https://codecov.io/gh/anton-yurchenko/unreleased-changelog-release/branch/main/graph/badge.svg)](https://codecov.io/gh/anton-yurchenko/unreleased-changelog-release)
