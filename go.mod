@@ -4,7 +4,7 @@ go 1.20
 
 require (
 	github.com/anton-yurchenko/go-changelog v1.1.0
-	github.com/go-git/go-git/v5 v5.7.0
+	github.com/go-git/go-git/v5 v5.8.0
 	github.com/spf13/afero v1.9.5
 	golang.org/x/mod v0.12.0
 )
